@@ -59,5 +59,8 @@ public class Main {
         System.out.println(" A  B  C  D  E  F   G   J   K");
         System.out.println("" + Arrays.toString(dist));
 
+        //результат
+        // A  B  C  D  E   F   G   J   K
+        //[0, 2, 5, 4, 7, 11, 11, 15, 20]
     }
 }
